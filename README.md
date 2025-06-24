@@ -36,7 +36,7 @@
 
 2. **รันแอพพลิเคชัน**
    ```bash
-   python base_converter.py
+   python NumberBaseConvert.py
    ```
 
 3. **วิธีใช้งาน**
