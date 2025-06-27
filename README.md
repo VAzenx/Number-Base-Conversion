@@ -30,7 +30,7 @@
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/your-username/number-base-converter.git
+   git clone https://github.com/VAzenx/Number-Base-Conversion
    cd number-base-converter
    ```
 
