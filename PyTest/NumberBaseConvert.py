@@ -12,7 +12,7 @@ import re
 class BaseConverter:
     def __init__(self, root):
         self.root = root
-        self.root.title("เครื่องมือแปลงเลขฐาน")
+        self.root.title("เครื่องมือแปลงเลขฐาน by.wutthipong wongwai")
         self.root.geometry("600x500")
         self.root.resizable(True, True)
         
